@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Martin</h1>
 <h3 align="center">A Passionate Student & Tech Enthusiast 🚀</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordlegal&label=Profile%20views&color=0e75b6&style=flat" alt="lordlegal" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordlegal" alt="lordlegal" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-beneder&label=Profile%20views&color=0e75b6&style=flat" alt="martin-beneder" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martin-beneder" alt="martin-beneder" /></a> </p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -22,6 +22,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordlegal&show_icons=true&locale=en&layout=compact" alt="lordlegal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lordlegal&show_icons=true&locale=en" alt="lordlegal" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordlegal&" alt="lordlegal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martin-beneder&show_icons=true&locale=en&layout=compact" alt="martin-beneder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martin-beneder&show_icons=true&locale=en" alt="martin-beneder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martin-beneder&" alt="martin-beneder" /></p>
