@@ -86,11 +86,13 @@ documents, customer processes and support. Tailor-made, technically solid, no Sa
 
 <div align="center">
 
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-beneder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-beneder&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-beneder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=martin-beneder&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martin-beneder&theme=tokyonight&utcOffset=2)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=martin-beneder&theme=tokyonight&hide_border=true)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martin-beneder&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=martin-beneder&theme=tokyonight)
 
 </div>
 
