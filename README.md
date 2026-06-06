@@ -22,6 +22,7 @@ documents, customer processes and support. Tailor-made, technically solid, no Sa
 - 🤖 Founder of **[Digital Kreativ](https://digitalkreativ.at)** — building custom AI-Agents (RAG, automation, support) for Austrian service businesses
 - 🎓 Studying at **HTL Spengergasse** (Vienna) — between school labs, a diploma thesis robot, and real-world deployments
 - 🦾 Working on **DorfBuddy** — an autonomous patrol robot (ROS2 · Jetson Orin Nano · hoverboard drivetrain)
+- 🔐 Going deep on **hardware & USB security** — designed [GhostKey](https://github.com/martin-beneder/ghostkey), an inline USB keystroke interceptor on a custom ESP32-S3 PCB (dual TinyUSB stacks, identity spoofing, BadUSB-class HID injection)
 - 🛠️ Happiest when going hands-on: hardware, embedded, cloud infra, full-stack & AI tooling — all at once
 - 💬 Ask me about **AI agents, automation, k3s/Kubernetes, networking labs** or building things end-to-end
 
@@ -31,6 +32,7 @@ documents, customer processes and support. Tailor-made, technically solid, no Sa
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| 🔌 **[GhostKey](https://github.com/martin-beneder/ghostkey)** | Inline USB keystroke interceptor on a self-built ESP32-S3 PCB — transparent USB man-in-the-middle with keylogging, identity spoofing & HID injection (security research) | `C++ · ESP32-S3` |
 | 🚆 **[planzug](https://github.com/martin-beneder/planzug)** | Agentic chat assistant combining school timetable (WebUntis), ÖBB train connections & walking routes in natural language | `TypeScript` |
 | 🎧 **[TradeSpotify](https://github.com/martin-beneder/TradeSpotify)** | Web app to explore your Spotify data — visualizing listening habits, top artists, songs & genres | `TypeScript` |
 | 🅿️ **[parkbot](https://github.com/martin-beneder/parkbot)** | Automation bot project | `Python` |
