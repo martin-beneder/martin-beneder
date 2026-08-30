@@ -2,15 +2,13 @@
 
 # Hi, I'm Martin Beneder 👋
 
-### AI-Agent Developer · Builder · HTL Spengergasse Student 🚀
+### Student @ HTL Spengergasse · Embedded · Robotics · Web 🚀
 
-I build **AI-Agents for service businesses** — systems that handle knowledge,
-documents, customer processes and support. Tailor-made, technically solid, no SaaS bubble.
+I like building things end-to-end — from custom PCBs and robots
+to bots, web apps and homelab infrastructure.
 
-[![Website](https://img.shields.io/badge/digitalkreativ.at-090910?style=for-the-badge&logo=vercel&logoColor=white)](https://digitalkreativ.at)
-[![Email](https://img.shields.io/badge/kontakt@digitalkreativ.at-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@digitalkreativ.at)
+[![Email](https://img.shields.io/badge/beneder.martin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beneder.martin@gmail.com)
 ![Location](https://img.shields.io/badge/Austria-🇦🇹-ED2939?style=for-the-badge)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=martin-beneder&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
@@ -19,16 +17,15 @@ documents, customer processes and support. Tailor-made, technically solid, no Sa
 
 ## 🧠 About Me
 
-- 🤖 Founder of **[Digital Kreativ](https://digitalkreativ.at)** — building custom AI-Agents (RAG, automation, support) for Austrian service businesses
-- 🎓 Studying at **HTL Spengergasse** (Vienna) — between school labs, a diploma thesis robot, and real-world deployments
-- 🦾 Working on **DorfBuddy** — an autonomous patrol robot (ROS2 · Jetson Orin Nano · hoverboard drivetrain)
-- 🔐 Going deep on **hardware & USB security** — designed [GhostKey](https://github.com/martin-beneder/ghostkey), an inline USB keystroke interceptor on a custom ESP32-S3 PCB (dual TinyUSB stacks, identity spoofing, BadUSB-class HID injection)
-- 🛠️ Happiest when going hands-on: hardware, embedded, cloud infra, full-stack & AI tooling — all at once
-- 💬 Ask me about **AI agents, automation, k3s/Kubernetes, networking labs** or building things end-to-end
+- 🎓 Studying at **HTL Spengergasse** (Vienna) — school labs, a diploma thesis robot and a lot of side projects
+- 🦾 Building **DorfBuddy** — an autonomous patrol robot (ROS2 · Jetson Orin Nano · hoverboard drivetrain)
+- 🔐 Into **hardware & USB security** — built [GhostKey](https://github.com/martin-beneder/ghostkey), an inline USB keystroke interceptor on a custom ESP32-S3 PCB (dual TinyUSB stacks, identity spoofing, BadUSB-class HID injection)
+- 🛠️ Happiest hands-on: hardware, embedded, homelab infra, full-stack & AI tooling
+- 💬 Ask me about **embedded, k3s/Kubernetes, networking labs** or building things end-to-end
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -38,76 +35,20 @@ documents, customer processes and support. Tailor-made, technically solid, no Sa
 | 🅿️ **[parkbot](https://github.com/martin-beneder/parkbot)** | Automation bot project | `Python` |
 | 🤖 **[pythondiscordbot](https://github.com/martin-beneder/pythondiscordbot)** | Feature-rich Discord bot | `Python` |
 
-> 💼 More client work & AI-Agent case studies (DOCUGENY, HiddenGPT, FIT Spengergasse, Namensgenie) at **[digitalkreativ.at/projects](https://digitalkreativ.at/projects)**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-**Web & Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Data & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/k3s_/_Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Hardware & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-beneder&theme=tokyonight)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=martin-beneder&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martin-beneder&theme=tokyonight&utcOffset=2)
-
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martin-beneder&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=martin-beneder&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
-
 <div align="center">
-
-I'm always open to interesting projects, automation challenges and collaboration.
-
-[![Website](https://img.shields.io/badge/digitalkreativ.at-Visit-090910?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitalkreativ.at)
-[![Email](https://img.shields.io/badge/Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@digitalkreativ.at)
 
 *Made with ♥ in Austria*
 
