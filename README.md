@@ -21,7 +21,7 @@ to bots, web apps and homelab infrastructure.
 - 🦾 Building **DorfBuddy** — an autonomous patrol robot (ROS2 · Jetson Orin Nano · hoverboard drivetrain)
 - 🔐 Into **hardware & USB security** — built [GhostKey](https://github.com/martin-beneder/ghostkey), an inline USB keystroke interceptor on a custom ESP32-S3 PCB (dual TinyUSB stacks, identity spoofing, BadUSB-class HID injection)
 - 🛠️ Happiest hands-on: hardware, embedded, homelab infra, full-stack & AI tooling
-- 💬 Ask me about **embedded, k3s/Kubernetes, networking labs** or building things end-to-end
+- 💬 Ask me about **embedded, networking labs** or building things end-to-end
 
 ---
 
